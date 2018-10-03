@@ -13,7 +13,7 @@
 // limitations under the License.
 
 package model
-
+// example
 // DependencyLink shows dependencies between services
 type DependencyLink struct {
 	Parent    string `json:"parent"`
